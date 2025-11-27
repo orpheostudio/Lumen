@@ -1,5 +1,7 @@
 {
   "name": "Copy of Sena AI Assistant",
   "description": "A friendly and accessible AI assistant named Sena, developed by AmplaAI.",
-  "requestFramePermissions": []
+  "requestFramePermissions": [
+    "microphone"
+  ]
 }
